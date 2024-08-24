@@ -1,8 +1,8 @@
-#View-tiktok
+# View-tiktok
 
-##Help
+## Help
 
-##Setup
+## Setup
 
 1.`Git clone https://github.com/HycrsChan/view-tiktok-customizing.git`
 
